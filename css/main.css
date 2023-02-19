@@ -1,0 +1,95 @@
+body {
+  background-color:#F8F0E3;
+}
+
+h1 {
+    font-family: 'Bungee Shade';
+    font-size: 100px;
+    color: #1A5653;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 5px
+  }
+
+h2 {
+    font-family: 'Bungee Inline';
+    font-size: 50px;
+    color: #1A5653;
+    text-align: justify;
+    margin-bottom: 15px;
+    margin-left: 30px;
+  }
+
+h3 {
+  font-family: 'Bungee Outline';
+  font-size: 45px;
+  color: #08313A;
+  text-align: justify;
+  margin-bottom: 15px
+}
+
+h4 {
+    font-family: 'Bungee Hairline';
+    font-size: 30px;
+    color: #107869;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+p  {
+    font-size: 22px;
+    line-height: 28px;
+    font-family: 'Helvetica Light', Sans-Serif;
+    color: #08313A;
+    margin-left: 25px;
+    margin-right: 40px;
+  }
+
+  ul{
+    font-size: 28px;
+    font-family: 'Helvetica Light', sans-serif;
+    color: #107869;
+    margin-bottom: 50px;
+    margin-left: 40px;
+  }
+
+  ol{
+    font-family: 'Bungee Inline';
+    font-size: 35px;
+    color: #1A5653;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 35px;
+  }
+
+  dt {
+    font-size: 50px;
+    font-family: 'Bungee Hairline';
+    color: #1A5653;
+    margin-left: 30px;
+  }
+
+  dd {
+    font-size: 28px;
+    line-height: 40px;
+    font-family: 'Helvetica Light', sans-serif;
+    color: #107869;
+    margin-right: 60px;
+  }
+
+  a:link {
+    color: #5CD85A;
+  }
+
+  a:visited {
+    color: #08313A;
+  }
+
+  a:hover {
+    color: #107869;
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+  }
